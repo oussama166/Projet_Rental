@@ -81,7 +81,7 @@ export const NavBar = () => {
                   "col-span-5 row-span-2 font-medium text-white text-base flex gap-5 items-center"
                 }>
                 <MdEmail size={30} />
-                <p className={"text-sm  font-light"}>direction@ambsi.ma</p>
+                <p className={"text-sm  font-light"}>direction@ambsrental.ma</p>
               </div>
             </li>
             <li className="grid grid-cols-1">

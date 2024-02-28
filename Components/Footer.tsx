@@ -59,7 +59,7 @@ export const Footer = () => {
           </li>
           <li className="flex flex-row items-center justify-center gap-5">
             <IoMdMail />
-            DIRECTION@AMBSI.MA
+            direction@ambsrental.ma
           </li>
         </ul>
       </div>
